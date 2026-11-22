@@ -2,10 +2,6 @@
   <img src="banner.gif" alt="Maziyar, backend developer" width="100%">
 </p>
 
-<p align="center">
-  <img src="typing.svg" alt="Backend developer working in C# and Python" width="720">
-</p>
-
 Backend developer. I build server-side software in C# and ASP.NET Core, and I use Python as well. Three years of programming, most of it on APIs and the database behind them.
 
 ## Selected work
