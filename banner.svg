@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Maziyar, backend developer</title>
-  <desc id="desc">Backend developer focused on ASP.NET Core, domain rules, and SQL Server.</desc>
+  <desc id="desc">Computer networks student at the University of Qom. Backend developer working with C#, Python, and ASP.NET Core.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
@@ -13,9 +13,9 @@
   <rect width="1200" height="280" fill="url(#fade)"/>
   <rect width="1200" height="280" fill="url(#grid)"/>
   <rect width="4" height="280" fill="#512BD4"/>
-  <text x="72" y="96" fill="#8b8499" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="3.2">BACKEND  ·  C#  ·  ASP.NET CORE</text>
+  <text x="72" y="96" fill="#8b8499" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="3.2">BACKEND  ·  C#  ·  PYTHON</text>
   <text x="72" y="162" fill="#f4f1ea" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="68" font-weight="600">Maziyar</text>
-  <text x="72" y="206" fill="#b7b1c2" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20">Domain rules, clear use cases, and data that stays consistent.</text>
+  <text x="72" y="206" fill="#b7b1c2" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20">University of Qom · 3 years of programming</text>
   <circle cx="1048" cy="140" r="62" fill="none" stroke="#512BD4" stroke-opacity="0.85" stroke-width="1.5"/>
   <text x="1048" y="156" text-anchor="middle" fill="#f4f1ea" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="600">M</text>
 </svg>
