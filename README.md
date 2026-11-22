@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.gif" alt="Maziyar, backend developer" width="100%">
+  <img src="banner.png" alt="Maziyar, backend developer" width="100%">
 </p>
 
-Backend developer. I build server-side software in C# and ASP.NET Core, and I use Python as well. Three years of programming, most of it on APIs and the database behind them.
+Backend developer. I build server-side software in C# and ASP.NET Core. Three years of programming, most of it on APIs and the database behind them. I am a computer networks student at the University of Qom.
 
 ## Selected work
 
