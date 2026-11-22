@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="banner.svg" alt="Maziyar — backend developer, University of Qom" width="100%">
+  <img src="banner.png" alt="Maziyar, backend developer, University of Qom" width="100%">
 </p>
+
+<div dir="rtl">
 
 <p align="center">
   دانشجوی شبکه در دانشگاه قم.<br>
@@ -46,3 +48,5 @@ API مدیریت کار برای سازمان، پروژه و تسک، روی .N
 <p align="center">
   <a href="https://github.com/CallMeMazi?tab=repositories">همهٔ ریپوها</a>
 </p>
+
+</div>
