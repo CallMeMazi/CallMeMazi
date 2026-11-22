@@ -1,36 +1,23 @@
 <p align="center">
-  <img src="banner.png" alt="Maziyar, backend developer, University of Qom" width="100%">
+  <img src="banner.gif" alt="Maziyar, backend developer" width="100%">
 </p>
-
-<div dir="rtl">
 
 <p align="center">
-  دانشجوی شبکه در دانشگاه قم.<br>
-  سه سال است برنامه‌نویسی می‌کنم و تمرکزم روی بک‌اند است.
+  <img src="typing.svg" alt="Backend developer working in C# and Python" width="720">
 </p>
 
-بیشتر با C# و ASP.NET Core کار می‌کنم و پایتون را هم بلد هستم. مهارت‌هایم به کتابخانه‌های داخل ریپوها محدود نمی‌شود؛ طراحی API، کار با دیتابیس، گیت و برنامه‌نویسی شی‌گرا بخش ثابت کار من است.
+Backend developer. I build server-side software in C# and ASP.NET Core, and I use Python as well. Three years of programming, most of it on APIs and the database behind them.
 
-## مهارت‌ها
-
-| | |
-|---|---|
-| **زبان‌ها** | C#، Python |
-| **بک‌اند** | ASP.NET Core، REST، Entity Framework Core، SQL Server |
-| **روش کار** | Git، معماری لایه‌ای، اعتبارسنجی، احراز هویت |
-| **پایه** | برنامه‌نویسی شی‌گرا، طراحی API، کار با داده، اشکال‌زدایی |
-
-## نمونهٔ کار
+## Selected work
 
 ### [TaskManagement API](https://github.com/CallMeMazi/TaskManagement-API)
 
-API مدیریت کار برای سازمان، پروژه و تسک، روی .NET 10.
+A .NET 10 API for organizations, projects, and tasks.
 
-قانون‌های اصلی روی خود موجودیت‌ها می‌مانند. هر کار با MediatR جدا شده و قبل از ذخیره اعتبارسنجی می‌شود. دادهٔ برنامه و لاگ در دو دیتابیس SQL Server نگه داشته می‌شوند. ورود با توکن است و هر دستگاه نشست خودش را دارد.
+The rules live on the domain model. Each use case is a MediatR request, and FluentValidation checks the input before anything is saved. Entity Framework Core stores the application in SQL Server and writes logs to a second database. Sign-in is a token, with a separate session for each device.
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt=".NET 10" src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="EF Core and SQL Server" src="https://img.shields.io/badge/EF%20Core-SQL%20Server-512BD4?style=flat-square&logo=microsoftsqlserver&logoColor=white">
@@ -38,15 +25,22 @@ API مدیریت کار برای سازمان، پروژه و تسک، روی .N
 
 ### [PersonalFinance](https://github.com/CallMeMazi/PersonalFinance)
 
-برنامهٔ محلی حساب مالی شخصی با رابط فارسی و تقویم شمسی، روی ASP.NET Core MVC و SQL Server.
+A local personal-finance app. The interface is Persian, dates use the Jalali calendar, and the records stay in SQL Server on ASP.NET Core MVC.
 
 <p>
   <img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/ASP.NET%20Core-MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://github.com/CallMeMazi?tab=repositories">همهٔ ریپوها</a>
-</p>
+## Stack
 
-</div>
+| | |
+|---|---|
+| **Languages** | C#, Python |
+| **Backend** | ASP.NET Core, REST, Entity Framework Core |
+| **Data** | SQL Server |
+| **Practice** | Git, layered structure, validation, authentication |
+
+<p align="center">
+  <a href="https://github.com/CallMeMazi?tab=repositories">All repositories</a>
+</p>
